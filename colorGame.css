@@ -1,0 +1,48 @@
+body,html {
+	background:#232323;
+	width:100%;
+	margin: 0;
+	height:100%;
+}
+.square {
+	width:30%;
+	background:purple;
+	padding-bottom:30%;
+	float:left;
+	margin:1.66%;
+
+}
+#container {
+	max-width:600px;
+	margin:0 auto;
+	margin-top:5%;
+}
+h1 {
+	color:white;
+	/*text-align: center;*/
+	margin:auto;
+		text-align: center;
+
+
+}
+
+span {
+	color:white;
+}
+
+h3 {
+
+}
+#banner {
+	background: white;
+	height: 30px;
+	text-align: center;
+
+}
+#message {
+	/*z-index: 1;*/
+	color:blue;
+}
+.selected {
+	background: blue;
+}
